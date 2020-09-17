@@ -1,1 +1,1 @@
-# Repository for Springboard Data Science Career Track projects
+# Springboard Data Science Bootcamp projects
